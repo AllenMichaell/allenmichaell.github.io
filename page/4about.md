@@ -30,7 +30,7 @@ type: page
 * 后端: `php` `laravel` `mysql` `nginx` `redis` `EasyWechat` `Jwt`
 * 前端: `vue` `axios` `fly` `elementUI` `Vux`
 * 微信小程序 微信公众号
-
+~
 ## 工作经验
 *2016.5.11*
 
