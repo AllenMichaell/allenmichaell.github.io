@@ -14,7 +14,7 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml " | prepend: site.baseurl | prepend: site.url }}">
 
-<!-- {% if site.baidu_tongji_id %}
+{% if site.baidu_tongji_id %}
     <script>
     // 百度统计代码
     var _hmt = _hmt || [];
@@ -25,17 +25,7 @@
       s.parentNode.insertBefore(hm, s);
     })();
     </script>
-{% endif %} -->
-
-<script>
-  var _hmt = _hmt || [];
-  (function() {
-    var hm = document.createElement("script");
-    hm.src = "https://hm.baidu.com/hm.js?ddd3272c693f11bfff44bf52c6fbeaec";
-    var s = document.getElementsByTagName("script")[0]; 
-    s.parentNode.insertBefore(hm, s);
-  })();
-  </script>  
+{% endif %}
 
 {% if site.google_analytics_id %}
     <script>
