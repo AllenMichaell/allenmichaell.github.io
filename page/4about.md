@@ -11,10 +11,9 @@ type: page
 
 ## 关于我
 
-* 2016.09.20 入职甘肃亿安车联网络科技有限公司负责网站运营及微信公众号的开发
-* 2017.10.25 入职上海渡步数据科技有限公司负责项目环境的搭建及小组成员之间的任务分工
-* 2017.11.30 外派到(上海)摩贝生物科技有限公司参与摩库数据微信公众号的开发
-* 2018.02.25 负责将摩库数据产品逻辑移植到渡步数据微信公众号
+* 2016.09.20 入职甘肃亿安车联网络科技有限公司
+* 2017.11.30 上海摩库数据技术有限公司参与摩库数据微信公众号的研发
+* 2017.10.25至今 入职上海渡步数据科技有限公司
 
 ## 联系我
 
@@ -23,20 +22,27 @@ type: page
 * phone：18193274782
 
 ## 个人博客
-* [GitHum: https://github.com/gyfn](https://gyfn.github.io)
+* [GitHub: https://gyfn.github.io](https://gyfn.github.io)
 * [个人网站: http://allen.bloggers.net.cn](http://allen.bloggers.net.cn)
 
-## 公司技术栈
-* 后端: `php` `laravel` `mysql` `nginx` `redis` `EasyWechat` `Jwt`
-* 前端: `vue` `axios` `fly` `elementUI` `Vux`
-* 其他: 微信小程序 微信公众号 爬虫
+## 专业技能
+1. 熟悉 `PHP` 以及 `PHP` 面向对象编程思想；
 
-## 工作经验
-*2016.5.11*
+2. 熟悉 `Laravel` 框架（队列、定时任务、数据迁移及填充、模型工厂等）及 `ThinkPHP` 框架的使用；
 
-* 优化代码，将页面中的大段评论相关代码抽离出来，放入`comments.html`
+3. 熟悉 `Flex` 布局、`Grid` 布局、`Sass` 和 `Less`、`JavaScript`、`Ajax`、`Pjax`、`Axios` 等前端技术；
 
-## 关于本站
-**若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+4. 熟悉 `git` 操作，具备快速上手各种前后端框架的能力；
+
+5. 熟悉 `MySQL` 数据库操作，熟悉数据库优化；
+
+6. 熟悉 `CentOS/Ubuntu` 操作系统以及常用命令，具备服务器环境配置和搭建能力；
+
+7. 熟悉`微信公众号及微信小程序开发流程
+
+8. 有运用 `python` 爬虫框架 `Scrapy` 配合 `scrapy-splash` 开发网页爬虫经验，有搭建个人[git网站](http://gitbucket.allen.net.cn "gitbucket")的经验；
+
+9. 了解：`node.js`、`react.js`、`angular.js`、`Memcache`、`Redis`、`Mongodb`。
+
 
 
